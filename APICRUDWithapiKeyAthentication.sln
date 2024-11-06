@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICRUDWithapiKeyAthentication", "APICRUDWithapiKeyAthentication\APICRUDWithapiKeyAthentication.csproj", "{BDA98557-4952-4F81-91FC-E5054B899A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICRUDWithapiKeyAthentication.Tests", "APICRUDWithapiKeyAthentication.Tests\APICRUDWithapiKeyAthentication.Tests.csproj", "{08C432C5-BC0E-4F6E-B4DC-C226974DEC87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA98557-4952-4F81-91FC-E5054B899A1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA98557-4952-4F81-91FC-E5054B899A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA98557-4952-4F81-91FC-E5054B899A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA98557-4952-4F81-91FC-E5054B899A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C432C5-BC0E-4F6E-B4DC-C226974DEC87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C432C5-BC0E-4F6E-B4DC-C226974DEC87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C432C5-BC0E-4F6E-B4DC-C226974DEC87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C432C5-BC0E-4F6E-B4DC-C226974DEC87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5330EA9-43CA-4CD2-AC03-F2B4E7650D24}
+	EndGlobalSection
+EndGlobal
